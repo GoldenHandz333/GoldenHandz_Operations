@@ -1,27 +1,22 @@
-body {
-    font-family: system-ui, -apple-system, sans-serif;
-    color: #222222;
-    background-color: #fdfdfd;
-    line-height: 1.6;
-    margin: 0;
-    padding: 20px;
+body, p, span, div, a, li {
+    color: #222222 !important;
+    opacity: 1 !important;
 }
-h1, h2, h3 {
-    color: #2e6930;
-}
-p {
-    color: #333333;
-    opacity: 1;
+h1, h2, h3, h4, h5, h6 {
+    color: #2e6930 !important;
+    opacity: 1 !important;
 }
 .card, .image-container {
-    background: #ffffff;
-    border: 1px solid #e0e0e0;
-    border-radius: 8px;
-    margin-bottom: 20px;
-    padding: 15px;
+    background: #ffffff !important;
+    border: 1px solid #e0e0e0 !important;
+    border-radius: 8px !important;
+    margin-bottom: 20px !important;
+    padding: 15px !important;
+    opacity: 1 !important;
 }
 img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 6px;
+    max-width: 100% !important;
+    height: auto !important;
+    border-radius: 6px !important;
+    opacity: 1 !important;
 }
